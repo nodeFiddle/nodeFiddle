@@ -4,7 +4,7 @@ angular.module('nodeFiddle.controllers', []);
 angular.module('nodeFiddle.services', []);
 angular.module('nodeFiddle.directives', []);
 
-angular.module('myApp', [
+angular.module('nodeFiddle', [
   'ui.router',
   'ngResource',
   'ui.bootstrap',
