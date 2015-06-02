@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('myApp.controllers')
+angular.module('nodeFiddle.controllers')
 
 .controller('HomeCtrl', ['$scope', '$state', function($scope, $state) {
 

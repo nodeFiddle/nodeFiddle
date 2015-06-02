@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('myApp.services')
+angular.module('nodeFiddle.services')
 
     .factory('myAPI', function ($resource) {
         return $resource('myAPIUrl');

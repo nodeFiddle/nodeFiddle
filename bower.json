@@ -1,8 +1,8 @@
 {
-  "name": "",
-  "description": "",
+  "name": "nodeFiddle",
+  "description": "As jsFiddle, nodeFiddle",
   "version": "0.0.1",
-  "homepage": "",
+  "homepage": "https://nodeFiddle.github.io/nodeFiddle",
   "license": "MIT",
   "private": false,
   "dependencies": {

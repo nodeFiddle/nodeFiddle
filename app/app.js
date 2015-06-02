@@ -1,19 +1,19 @@
 'use strict';
 
-angular.module('myApp.controllers', []);
-angular.module('myApp.services', []);
-angular.module('myApp.directives', []);
+angular.module('nodeFiddle.controllers', []);
+angular.module('nodeFiddle.services', []);
+angular.module('nodeFiddle.directives', []);
 
 angular.module('myApp', [
   'ui.router',
   'ngResource',
   'ui.bootstrap',
-  'myApp.controllers',
-  'myApp.services',
-  'myApp.directives'
+  'nodeFiddle.controllers',
+  'nodeFiddle.services',
+  'nodeFiddle.directives'
 ]);
 
-angular.module('myApp').config(function ($urlRouterProvider, $stateProvider) {
+angular.module('nodeFiddle').config(function ($urlRouterProvider, $stateProvider) {
   $urlRouterProvider.when('', '/home');
 
   $stateProvider
