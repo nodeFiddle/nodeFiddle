@@ -5,3 +5,27 @@
   bottom: 0;
   left: 0;
 }
+.brand {
+  background: transparent url("../../img/logo.png") no-repeat left center;
+  background-size: contain;
+  font-size: xx-large;
+  margin-top: 30px;
+  margin-left: 30px;
+  padding-left: 68px;
+  color: #404037;
+}
+.mono-font {
+  font-family: 'Share Tech Mono';
+}
+.vt323-font {
+  font-family: 'VT323';
+}
+.nova-font {
+  font-family: 'Nova Mono';
+}
+.ubuntu {
+  font-family: 'Ubuntu', sans-serif;
+}
+.ubuntu-mono {
+  font-family: 'Ubuntu Mono';
+}

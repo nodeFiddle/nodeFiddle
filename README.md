@@ -1,4 +1,4 @@
-# nodeFiddle
+# ![nodeFiddle](/app/img/brand.png "nodeFiddle")
 
 __As jsFiddle, nodeFiddle__
 
