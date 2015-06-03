@@ -2,7 +2,7 @@
 
 __As jsFiddle, nodeFiddle__
 
-Execute and share nodeJS code on the browser!
+Execute and share nodeJS code on the browser! [Try it here!](http://nodefiddle.github.io/nodeFiddle)
 
 ### Install
 
